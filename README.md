@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://santiago-create.github.io/JQuery-Exercises/)
 
 ## Getting Started
 
@@ -55,8 +55,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
-
+Feel free to check the (https://github.com/santiago-create/JQuery-Exercises/issues)
 ## Show your support
 
 Give a ⭐️ if you like this project!
